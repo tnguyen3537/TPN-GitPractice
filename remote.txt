@@ -1,0 +1,7 @@
+Exercise 14: How you can find out the names and addresses of the remote repositories of a Git project?
+
+We can use the command git remote -v
+
+The output is something like:
+origin  https://github.com/tnguyen3537/TPN-GitPractice.git (fetch)
+origin  https://github.com/tnguyen3537/TPN-GitPractice.git (push)
