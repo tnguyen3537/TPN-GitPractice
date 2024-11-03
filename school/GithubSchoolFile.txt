@@ -1,0 +1,4 @@
+Exercise 9:
+Create a new file to the school subfolder via GitHub, and fetch it to your local version.
+You can add file in GitHub by click the school folder name on GitHub and cliking “Add a file” on top right corner. 
+Then commit changes similarly as while editing the file.
